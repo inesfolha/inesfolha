@@ -1,15 +1,9 @@
-<div style="position: relative;">
-  <div style="position: absolute; top: 10px; right: 10px;">
-    <a href="https://www.linkedin.com/in/inesfolha">
-      <img alt="LinkedinProfile" width="40px" title="linkedin" src="static/icon-linkedin.png" />
-    </a>
-  </div>
-
-# 🦉 ileaf       
-</div>
+# 🦉 ileaf &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="static/icon-linkedin.png" width="40" alt="LinkedIn Icon">](https://www.linkedin.com/in/inesfolha) 
 
 
-**`Sofware Engineeer | Backend Developer `** 
+
+**`Sofware Engineeer | Backend Developer `**  
+
 
 
 
