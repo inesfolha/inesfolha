@@ -1,4 +1,4 @@
-# 🦉 ileaf &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="static/icon-linkedin.png" width="40" alt="LinkedIn Icon">](https://www.linkedin.com/in/inesfolha) 
+# 🦉 ileaf &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="static/icon-linkedin.png" width="40" alt="LinkedIn Icon">](https://www.linkedin.com/in/inesfolha) 
 
 
 
@@ -44,9 +44,9 @@ Add Introduction
   <a href="https://www.youtube.com/watch?v=QfXVmT3e1SQ" style="flex: 0 0 calc(33.33% - 10px); margin-right: 10px; margin-bottom: 10px;">
     <img src="static/youtube screenshots/book-library-demo.png" alt="Book Library Demo" width="250">
   </a>
-
 </div>
 
+<br />
 
 ---
 
