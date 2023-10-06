@@ -1,12 +1,13 @@
 <div style="position: relative;">
-  <a href="https://www.linkedin.com/in/inesfolha" style="position: absolute; top: 10px; right: 10px;">
-    <img alt="LinkedinProfile" width="40px" title="linkedin" src="static/icon-linkedin.png"/>
-  </a>
-</div>
+  <div style="position: absolute; top: 10px; right: 10px;">
+    <a href="https://www.linkedin.com/in/inesfolha">
+      <img alt="LinkedinProfile" width="40px" title="linkedin" src="static/icon-linkedin.png" />
+    </a>
+  </div>
 
 # 🦉 ileaf       
-
 </div>
+
 
 **`Sofware Engineeer | Backend Developer `** 
 
