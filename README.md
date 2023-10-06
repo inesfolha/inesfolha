@@ -1,11 +1,22 @@
-# 	🦉 ileaf
+<div style="position: relative;">
+  <a href="https://www.linkedin.com/in/inesfolha" style="position: absolute; top: 10px; right: 10px;">
+    <img alt="LinkedinProfile" width="40px" title="linkedin" src="static/icon-linkedin.png"/>
+  </a>
+</div>
 
-**`Sofware Engineeer | Backend Developer `**
+# 🦉 ileaf       
+
+</div>
+
+**`Sofware Engineeer | Backend Developer `** 
+
+
 
 Add Introduction
 
 
----
+ 
+--
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -19,6 +30,7 @@ Add Introduction
 <img align="left" alt="SQAlchemy" width="40px" style="padding-right:10px;" src="static/sqlalchemy-with-background.png" />
 <img align="left" alt="Pycharm" width="40px" style="padding-right:10px;" src="static/PyCharm_Icon.svg.png" />
 <img align="left" alt="VSCode" width="40px" style="padding-right:10px;" src="static/Visual_Studio_Code_1.35_icon.svg.png" />
+
 <br />
 
 
