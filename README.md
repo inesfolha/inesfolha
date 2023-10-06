@@ -1,4 +1,4 @@
-# 🦉 ileaf &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="static/icon-linkedin.png" width="40" alt="LinkedIn Icon">](https://www.linkedin.com/in/inesfolha) 
+# 🦉 ileaf &nbsp;[<img src="static/icon-linkedin.png" width="30" alt="LinkedIn Icon">](https://www.linkedin.com/in/inesfolha) 
 
 
 
