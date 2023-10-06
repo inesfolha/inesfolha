@@ -44,12 +44,15 @@ Add Introduction
     <img src="static/youtube screenshots/book-library-demo.png" alt="Book Library Demo" width="250">
   </a>
 </div>
-
-<br /> <br />
+<br /> 
 
 #
-
- <summary> <h3>👨‍💻 My Journey</h3></summary>
+<summary> <h3>👨‍💻 My Journey</h3></summary>
 Add text 
 
 
+---
+### Contact Information
+
+ - ines.folha98@gmail.com
+ - https://www.linkedin.com/in/inesfolha/
