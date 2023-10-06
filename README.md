@@ -1,16 +1,18 @@
-# 🦉 ileaf &nbsp;[<img src="static/icon-linkedin.png" width="30" alt="LinkedIn Icon">](https://www.linkedin.com/in/inesfolha) 
+# 🦉 ileaf &nbsp;[<img src="static/icon-linkedin.png" width="35" alt="LinkedIn Icon">](https://www.linkedin.com/in/inesfolha) [<img src="static/cv.png" width="30" alt="LinkedIn Icon">](https://drive.google.com/file/d/14ENRxwPnIrgvctg6h7oRsJLLQY-NaFlP/view)
+
 
 
 
 **`Sofware Engineeer | Backend Developer `**  
 
+Hi there! 👋 I'm Inês, a recent graduate of a software engineering bootcamp with a background in filmmaking and a passion for technology. I ventured into software engineering from a background in filmmaking, drawn by the allure of daily challenges and the promise of perpetual learning and personal growth. 
 
 
+I'm well-versed in Python and have dabbled in web technologies like CSS, HTML, and JavaScript. For my web projects, I've predominantly utilized Flask, and I'm currently deepening my knowledge in backend development. 
 
-Add Introduction
+Currently, I'm actively seeking remote opportunities as a junior software developer, excited to apply my skills and passion in a real-world setting. I'm confident that my unique background and unwavering commitment to continuous improvement make me a valuable addition to any team.
 
 
- 
 ---
 
 ### 🧰 Languages and Tools
@@ -47,6 +49,20 @@ Add Introduction
 <br /> 
 
 #
-<summary> <h3>👨‍💻 My Journey</h3></summary>
-Add text 
 
+<details>
+ <summary><h3>👨‍💻 My Journey</h3></summary>
+   Before embarking on my software engineering journey, I had a background in filmmaking, specialized in directing and editing. My passion for storytelling fueled my creative endeavors in the film industry, but eventually, I yearned for new challenges and intellectual growth.
+
+Driven by this desire, I made a bold transition into the realm of technology. I started with Python and gradually explored CSS, HTML, and JavaScript, venturing into web development with Flask as my primary tool.
+
+My learning path led me to complete the core curriculum of a software engineering bootcamp. This equipped me with essential skills, but my journey doesn't end here.
+
+Throughout my educational journey, I've consistently demonstrated my ability to grasp complex concepts quickly. I've always felt I could do more than what was expected, motivating me to push boundaries and think creatively.
+
+Before the bootcamp, I embarked on a journey of exploration, delving into subjects like biology, mathematics, physics, and chemistry, seeking a career rooted in logic and science. That's when I stumbled upon software engineering and realized it was the right path for me.
+
+Currently, I'm deepening my knowledge in subjects like Deployment, Operating Systems, File Formats, Advanced Python, AI, Advanced Databases, and Java & Object-Oriented Programming. This journey has sparked a keen interest in AI and cybersecurity, redirecting my path into exciting new directions.
+
+As a fast learner, resourceful problem solver, and ambitious individual, I eagerly look forward to contributing my skills and enthusiasm to future opportunities and collaborations.
+</details>
