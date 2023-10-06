@@ -11,7 +11,7 @@ Add Introduction
 
 
  
---
+---
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -25,7 +25,6 @@ Add Introduction
 <img align="left" alt="SQAlchemy" width="40px" style="padding-right:10px;" src="static/sqlalchemy-with-background.png" />
 <img align="left" alt="Pycharm" width="40px" style="padding-right:10px;" src="static/PyCharm_Icon.svg.png" />
 <img align="left" alt="VSCode" width="40px" style="padding-right:10px;" src="static/Visual_Studio_Code_1.35_icon.svg.png" />
-
 <br />
 
 #
@@ -48,7 +47,7 @@ Add Introduction
 
 <br />
 
----
+#
 
  <summary> <h3>👨‍💻 My Journey</h3></summary>
 Add text 
