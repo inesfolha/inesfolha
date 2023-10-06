@@ -50,9 +50,3 @@ Add Introduction
 <summary> <h3>👨‍💻 My Journey</h3></summary>
 Add text 
 
-
----
-### Contact Information
-
- - ines.folha98@gmail.com
- - https://www.linkedin.com/in/inesfolha/
