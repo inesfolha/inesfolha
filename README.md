@@ -1,41 +1,69 @@
-# 🏄‍♂️ ileaf
+# 	🦉 ileaf
 
 **`Sofware Engineeer | Backend Developer `**
 
-I'm a 
+Add Introduction
 
 
 ---
 
 ### 🧰 Languages and Tools
-<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Flask" width="40px" style="padding-right:10px;" src="static/flask-original-inverted.png" />
-<img align="left" alt="Sqlite" width="40px" style="padding-right:10px;" src="static/sqlite-original.svg" />
-<img align="left" alt="SQAlchemy" width="40px" style="padding-right:10px;" src="static/sqlalchemy-with-background.png" />
-<img align="left" alt="FastAPI" width="40px" style="padding-right:10px;" src="static/fastapi-original.svg" />
-
-<img align="left" alt="FastAPI" width="40px" style="padding-right:10px;" src="static/fastapi-original.svg" />
+<img align="left" alt="Python" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="HTML" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Flask" width="45px" style="padding-right:10px;" src="static/flask-original-inverted.png" />
+<img align="left" alt="FastAPI" width="45px" style="padding-right:10px;" src="static/fastapi-original.svg" />
+<img align="left" alt="SQL" width="40px" style="padding-right:10px;" src="static/sql-database-generic.svg" />
+<img align="left" alt="Sqlite" width="45px" style="padding-right:10px;" src="static/sqlite-original.svg" />
+<img align="left" alt="SQAlchemy" width="45px" style="padding-right:10px;" src="static/sqlalchemy-with-background.png" />
+<img align="left" alt="Pycharm" width="45px" style="padding-right:10px;" src="static/PyCharm_Icon.svg.png" />
+<img align="left" alt="VSCode" width="45px" style="padding-right:10px;" src="static/Visual_Studio_Code_1.35_icon.svg.png" />
 <br />
 
 
 ---
 
 ### 📺 Project Demos
+<style>
+  .image-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  .image-container a {
+    flex: 0 0 calc(33.33% - 10px);
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+  .image-container a:last-child {
+    margin-right: 0;
+  }
+  @media (max-width: 600px) {
+    .image-container a {
+      flex: 0 0 calc(50% - 10px);
+    }
+  }
+</style>
 
-<!-- BEGIN YOUTUBE-CARDS -->
+<div class="image-container">
+  <a href="https://www.youtube.com/watch?v=kAIS983QBS8">
+    <img src="static/youtube screenshots/moviepedia demo.png" alt="Moviepedia Demo" width="300">
+  </a>
 
-<!-- END YOUTUBE-CARDS -->
+  <a href="https://www.youtube.com/watch?v=lNLidetiIVA">
+    <img src="static/youtube screenshots/recipe-keeper-demo.png" alt="Recipe Keeper Demo" width="300">
+  </a>
+
+  <a href="https://www.youtube.com/watch?v=QfXVmT3e1SQ">
+    <img src="static/youtube screenshots/book-library-demo.png" alt="Book Library Demo" width="300">
+  </a>
+
+</div>
+
+---
+
+ <summary> <h3>👨‍💻 My Journey</h3></summary>
+Add text 
 
 
-
-
-
-
-<details>
- <summary><h3>👨‍💻 ileaf's Coding Journey</h3></summary>
-
-[website]: https://
-[Linkedin]: 
