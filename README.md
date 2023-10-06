@@ -25,41 +25,21 @@ Add Introduction
 ---
 
 ### 📺 Project Demos
-<style>
-  .image-container {
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-  }
-  .image-container a {
-    flex: 0 0 calc(33.33% - 10px);
-    margin-right: 10px;
-    margin-bottom: 10px;
-  }
-  .image-container a:last-child {
-    margin-right: 0;
-  }
-  @media (max-width: 600px) {
-    .image-container a {
-      flex: 0 0 calc(50% - 10px);
-    }
-  }
-</style>
-
-<div class="image-container">
-  <a href="https://www.youtube.com/watch?v=kAIS983QBS8">
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <a href="https://www.youtube.com/watch?v=kAIS983QBS8" style="flex: 0 0 calc(33.33% - 10px); margin-right: 10px; margin-bottom: 10px;">
     <img src="static/youtube screenshots/moviepedia demo.png" alt="Moviepedia Demo" width="300">
   </a>
 
-  <a href="https://www.youtube.com/watch?v=lNLidetiIVA">
+  <a href="https://www.youtube.com/watch?v=lNLidetiIVA" style="flex: 0 0 calc(33.33% - 10px); margin-right: 10px; margin-bottom: 10px;">
     <img src="static/youtube screenshots/recipe-keeper-demo.png" alt="Recipe Keeper Demo" width="300">
   </a>
 
-  <a href="https://www.youtube.com/watch?v=QfXVmT3e1SQ">
+  <a href="https://www.youtube.com/watch?v=QfXVmT3e1SQ" style="flex: 0 0 calc(33.33% - 10px); margin-right: 10px; margin-bottom: 10px;">
     <img src="static/youtube screenshots/book-library-demo.png" alt="Book Library Demo" width="300">
   </a>
 
 </div>
+
 
 ---
 
