@@ -1,14 +1,14 @@
-# 🦉 ileaf &nbsp;[<img src="static/icon-linkedin.png" width="35" alt="LinkedIn Icon">](https://www.linkedin.com/in/inesfolha) [<img src="static/cv.png" width="30" alt="LinkedIn Icon">](https://drive.google.com/file/d/14ENRxwPnIrgvctg6h7oRsJLLQY-NaFlP/view)
+# 🦉 ileaf &nbsp;[<img src="static/icon-linkedin.png" width="35" alt="LinkedIn Icon">](https://www.linkedin.com/in/inesfolha) [<img src="static/cv.png" width="30" alt="LinkedIn Icon">](https://drive.google.com/file/d/1X0iFDESr6vSOuFmzMYNHY6G3LrF5n616/view?usp=sharing)
 
 
 
 
 **`Sofware Engineeer | Backend Developer `**  
 
-Hi there! 👋 I'm Inês, a recent graduate of a software engineering bootcamp with a background in filmmaking and a passion for technology. I ventured into software engineering from a background in filmmaking, drawn by the allure of daily challenges and the promise of perpetual learning and personal growth. 
+Hi there! 👋 I'm Inês, a recent graduate of a software engineering program with a background in filmmaking and a passion for technology. I ventured into software engineering from a background in filmmaking, drawn by the allure of daily challenges and the promise of perpetual learning and personal growth. 
 
 
-I'm well-versed in Python and have dabbled in web technologies like CSS, HTML, and JavaScript. For my web projects, I've predominantly utilized Flask, and I'm currently deepening my knowledge in backend development. 
+I'm well-versed in Python and have dabbled in web technologies like CSS, HTML, and JavaScript. For my web projects, I've predominantly utilized Flask, and I'm currently deepening my knowledge in backend development and learning new technologies like Java.  
 
 Currently, I'm actively seeking remote opportunities as a junior software developer, excited to apply my skills and passion in a real-world setting. I'm confident that my unique background and unwavering commitment to continuous improvement make me a valuable addition to any team.
 
@@ -27,6 +27,8 @@ Currently, I'm actively seeking remote opportunities as a junior software develo
 <img align="left" alt="SQAlchemy" width="40px" style="padding-right:10px;" src="static/sqlalchemy-with-background.png" />
 <img align="left" alt="Pycharm" width="40px" style="padding-right:10px;" src="static/PyCharm_Icon.svg.png" />
 <img align="left" alt="VSCode" width="40px" style="padding-right:10px;" src="static/Visual_Studio_Code_1.35_icon.svg.png" />
+<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="static/java.png" />
+
 <br />
 
 #
@@ -62,7 +64,7 @@ Throughout my educational journey, I've consistently demonstrated my ability to 
 
 Before the bootcamp, I embarked on a journey of exploration, delving into subjects like biology, mathematics, physics, and chemistry, seeking a career rooted in logic and science. That's when I stumbled upon software engineering and realized it was the right path for me.
 
-Currently, I'm deepening my knowledge in subjects like Deployment, Operating Systems, File Formats, Advanced Python, AI, Advanced Databases, and Java & Object-Oriented Programming. This journey has sparked a keen interest in AI and cybersecurity, redirecting my path into exciting new directions.
+I am currently learning Java and Spring, so I can properly develop my next personal project: https://github.com/inesfolha/JobHuntTracker as also planning to start learning to work with MongoDB for the same purpose. 
 
 As a fast learner, resourceful problem solver, and ambitious individual, I eagerly look forward to contributing my skills and enthusiasm to future opportunities and collaborations.
 </details>
